@@ -1,0 +1,64 @@
+{
+  "_from": "react-native-threads",
+  "_id": "react-native-threads@0.0.17",
+  "_inBundle": false,
+  "_integrity": "sha512-Qoi5djj3XtQGNkBzcLMBMtqoARm+805VQroP2YoH8ohdQPkcxuPbduJCw+rTuk6grpbXGNpOu9zS41r1oA0uVw==",
+  "_location": "/react-native-threads",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-threads",
+    "name": "react-native-threads",
+    "escapedName": "react-native-threads",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-threads/-/react-native-threads-0.0.17.tgz",
+  "_shasum": "a880c14244fa1b9183ed99761bb7dfd170f79069",
+  "_spec": "react-native-threads",
+  "_where": "/Users/janisl/TimeBox",
+  "author": {
+    "name": "Travis Nuttall"
+  },
+  "bugs": {
+    "url": "https://github.com/joltup/react-native-threads/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "[![npm version](https://img.shields.io/npm/v/react-native-threads.svg?style=flat-square)](https://www.npmjs.com/package/react-native-threads) [![downloads](https://img.shields.io/npm/dm/react-native-threads.svg?style=flat-square)](https://www.npmjs.com/package/react-native-threads)",
+  "files": [
+    "android/",
+    "ios/",
+    "js/",
+    "index.js"
+  ],
+  "homepage": "https://github.com/joltup/react-native-threads#readme",
+  "keywords": [
+    "react-native",
+    "thread",
+    "workers",
+    "parallelism",
+    "concurrency",
+    "processing"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-threads",
+  "peerDependencies": {
+    "react-native": ">=0.50.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joltup/react-native-threads.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.17"
+}
